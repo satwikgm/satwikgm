@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/satwik-s-b4b0a7225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satwik-s-b4b0a7225" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/satwikmishra06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satwikmishra06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satwikgm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satwikgm" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satwikgm" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ninaadps" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://auth.geeksforgeeks.org/user/satwikgm" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satwik" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
